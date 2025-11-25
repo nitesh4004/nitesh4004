@@ -18,10 +18,9 @@
 
 I'm a passionate **Geospatial Data Scientist** from India, specializing in transforming satellite imagery and spatial data into actionable insights. My expertise lies at the intersection of **Remote Sensing**, **Geographic Information Systems (GIS)**, and **Machine Learning**.
 
-- Currently pursuing **PhD opportunities** in Remote Sensing & GIS
 - Working on **Flood Mapping**, **Crop Monitoring**, and **Environmental Analysis**
 - Experienced with **Google Earth Engine**, **Python**, and **QGIS/ArcGIS**
-- Graduate from **Indian Institute of Technology Guwahati**
+- Postgraduate from **Indian Institute of Technology Guwahati**
 
 ---
 
