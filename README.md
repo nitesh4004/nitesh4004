@@ -24,6 +24,28 @@ I'm a passionate **Geospatial Data Scientist** from India, specializing in trans
 
 ---
 
+## Education
+
+### M.Tech in Earth System Science and Engineering
+**Indian Institute of Technology Guwahati** | 2022 - 2024
+- CGPA: 8.91/10
+- Specialization: Geospatial Analysis and Remote Sensing
+
+### B.Tech in Civil Engineering
+**Rajkiya Engineering College Ambedkar Nagar, U.P.** | 2018 - 2022
+- CGPA: 7.93/10
+
+---
+
+## Professional Experience
+
+### GIS Engineer
+**SWANSAT OPC Pvt Ltd, Mumbai** | June 2024 - Present
+- Engineered automated pipelines for Environmental Change Detection and crop monitoring, delivering yield prediction models that support precision agriculture decision-making
+- Optimized spatial data processing workflows using Python and Google Earth Engine, reducing analysis turnaround time for large-scale vegetation health monitoring
+
+---
+
 ## Tech Stack & Tools
 
 ### Remote Sensing & GIS
