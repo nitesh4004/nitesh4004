@@ -1,145 +1,73 @@
-<div align="center">
-  
-# Hi there, I'm Nitesh Kumar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# 👋 Hi, I'm Nitesh Kumar
 
-### Geospatial Data Scientist | Remote Sensing Specialist | GIS Expert
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh400/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?user=wGF7pgUAAAAJ&hl=en))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitesh4004@iitg.ac.in)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Transforming+Geospatial+Data+into+Climate+Insights;Remote+Sensing+%7C+GIS+%7C+Machine+Learning;Satellite+Image+Analysis+Expert;Earth+Observation+Enthusiast" alt="Typing SVG" />
-
-</div>
+**GIS Engineer** specializing in remote sensing, WebGIS, and geospatial AI, turning satellite imagery into decision-ready insights for agriculture, environment, and water resources.[file:2] Currently working at SWANSAT (OPC) Pvt. Ltd. on scalable geospatial pipelines for precision agriculture and environmental monitoring.[file:2]
 
 ---
 
-## About Me
+## 🌍 About Me
 
-I'm a passionate **Geospatial Data Scientist** from India, specializing in transforming satellite imagery and spatial data into actionable insights. My expertise lies at the intersection of **Remote Sensing**, **Geographic Information Systems (GIS)**, and **Machine Learning**.
-
-- Working on **Flood Mapping**, **Crop Monitoring**, and **Environmental Analysis**
-- Experienced with **Google Earth Engine**, **Python**, and **QGIS/ArcGIS**
-- Postgraduate from **Indian Institute of Technology Guwahati**
-
----
-
-## Education
-
-### M.Tech in Earth System Science and Engineering
-**Indian Institute of Technology Guwahati** | 2022 - 2024
-- CGPA: 8.91/10
-- Specialization: Geospatial Analysis and Remote Sensing
-
-### B.Tech in Civil Engineering
-**Rajkiya Engineering College Ambedkar Nagar, U.P.** | 2018 - 2022
-- CGPA: 7.93/10
+- GIS Engineer at SWANSAT (OPC) Pvt. Ltd., Mumbai, India.[file:2]  
+- M.Tech in **Earth System Science and Engineering** from IIT Guwahati (CGPA: 8.9/10).[file:2]  
+- B.Tech in Civil Engineering from Rajkiya Engineering College, Ambedkar Nagar (CGPA: 7.93/10).[file:2]  
+- Focus areas: crop yield forecasting, flood mapping, land susceptibility, and environmental risk assessment using EO data.[file:2]
 
 ---
 
-## Professional Experience
+## 🛰️ What I Work On
 
-### GIS Engineer
-**SWANSAT OPC Pvt Ltd, Mumbai** | June 2024 - Present
-- Engineered automated pipelines for Environmental Change Detection and crop monitoring, delivering yield prediction models that support precision agriculture decision-making
-- Optimized spatial data processing workflows using Python and Google Earth Engine, reducing analysis turnaround time for large-scale vegetation health monitoring
-
----
-
-## Tech Stack & Tools
-
-### Remote Sensing & GIS
-<p align="left">
-<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-<img src="https://img.shields.io/badge/ArcGIS-2C7BB6?style=for-the-badge&logo=arcgis&logoColor=white" />
-<img src="https://img.shields.io/badge/SNAP-003366?style=for-the-badge&logoColor=white" />
-</p>
-
-### Satellite Data
-<p align="left">
-<img src="https://img.shields.io/badge/Sentinel--1_SAR-003399?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentinel--2_MSI-66CCFF?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Landsat-FF6600?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MODIS-228B22?style=for-the-badge&logoColor=white" />
-</p>
-
-### Programming & ML
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+- Building end‑to‑end geospatial pipelines for environmental change detection and crop monitoring.[file:2]  
+- Designing ML models for crop yield forecasting using thermal and optical remote sensing data.[file:2]  
+- Developing WebGIS tools that let users process optical/SAR data on demand for real‑world decision making.[file:2]  
+- Applying hyperspectral and multispectral analytics for oil spill and contamination detection.[file:2]  
 
 ---
 
-## Current Focus Areas
+## 🛠 Tech Stack
 
-| Domain | Description |
-|--------|-------------|
-| Flood Mapping | SAR-based flood inundation and depth mapping using Sentinel-1 |
-| Crop Monitoring | ML-based crop yield forecasting using thermal & optical data |
-| LULC Classification | Land Use Land Cover mapping with vegetation indices |
-| Soil Moisture | Sentinel-1 based soil moisture estimation |
-| Disaster Management | Mudslide analysis and early warning systems |
+- **Geospatial & EO:** Crop phenology, yield modeling, flood modelling, land susceptibility, soil moisture retrieval.[file:2]  
+- **GIS Software:** ArcGIS Pro, QGIS, ENVI, SNAP (SAR Toolbox), Google Earth Engine (GEE).[file:2]  
+- **Programming & Data:** Python (GeoPandas, Rasterio, ArcPy, NumPy, Pandas), SQL (PostGIS), JavaScript for GEE.[file:2]  
+- **AI & ML:** OpenCV, TensorFlow, PyTorch, Keras, Scikit-learn (CV, time-series, regression).[file:2]  
+- **WebGIS & DevOps:** Streamlit, Leaflet, Jupyter Notebooks, Git/GitHub, geospatial ETL pipelines.[file:2]  
 
 ---
 
-## GitHub Stats
+## 🌐 WebApp Suite – Geospatial Solutions
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=nitesh4004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh4004&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+A set of WebGIS tools for applied geospatial analytics.[file:2]
 
-</div>
+- **SpectralNi30** – GIS analytics engine for vegetation health, flood mapping, and LULC analysis (Optical + SAR).[file:2]  
+- **geoFormatX** – Serverless geospatial ETL for automated vector format conversion and CRS reprojection.[file:2]  
+- **GeoSarovar** – Water intelligence platform for rainwater harvesting site selection and encroachment detection.[file:2]  
+- **KaMaL** – WebGIS interface for creating and visualizing geospatial boundary features.[file:2]  
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh4004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+🔗 **View projects & demos:** [Portfolio](https://nitesh4004.github.io/)[file:2][web:1]
 
 ---
 
-## Featured Projects
+## 📊 Selected Work
 
-<a href="https://github.com/nitesh4004/Satellite_Image_Classification_using_Machine_Learning_Classifiers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh4004&repo=Satellite_Image_Classification_using_Machine_Learning_Classifiers&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nitesh4004/Vessel-Proximity-Detection-using-Python-and-GIS-Tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh4004&repo=Vessel-Proximity-Detection-using-Python-and-GIS-Tools&theme=tokyonight&hide_border=true" />
-</a>
+- **Machine Learning‑Based Crop Yield Forecasting**  
+  - Built predictive models using Sentinel‑1/2 and thermal/optical data to forecast crop yield and reduce financial risk.[file:2]  
+  - Implemented end‑to‑end pipelines for sugarcane yield prediction to support targeted irrigation and nutrient planning.[file:2]  
 
----
-
-## Connect With Me
-
-<div align="center">
-  
-I'm always interested in collaborating on **Remote Sensing** and **GIS** projects!
-
-**Open to PhD opportunities and research collaborations**
-
-<img src="https://komarev.com/ghpvc/?username=nitesh4004&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
+- **Environmental Risk Assessment (Master’s Capstone)**  
+  - Used PRISMA hyperspectral and Sentinel‑2 imagery for oil spill and surface anomaly detection.[file:2]  
+  - Demonstrated narrow‑band spectral analysis for vegetation stress and soil contamination mapping.[file:2]  
 
 ---
 
-<div align="center">
-  
-### "Mapping the Earth, One Pixel at a Time"
+## 📄 Publication
 
-</div>
+- Kumar, N., Ahmad, A., Pal, A. K., Nair, A. M.  
+  **Detection of hydrocarbon microseepage in northeast India using image analysis approach.**  
+  EGU General Assembly Conference 2024, doi:10.5194/egusphere-egu24-15492.[file:2]
+
+---
+
+## 📬 Connect
+
+- 📧 Email: **nitesh.gulzar@gmail.com**[file:2]  
+- 🔗 LinkedIn: *add your profile URL here*  
+- 🌐 Portfolio: [https://nitesh4004.github.io/](https://nitesh4004.github.io/)[web:1]  
+- 🧪 GitHub: **You’re already here.**
