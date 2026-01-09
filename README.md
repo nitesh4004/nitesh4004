@@ -112,15 +112,6 @@ EGU General Assembly Conference 2024 | doi:10.5194/egusphere-egu24-15492
 
 ---
 
-## 📬 Connect With Me
-
-📧 **Email**: [nitesh.gulzar@gmail.com](mailto:nitesh.gulzar@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/nitesh4004](https://www.linkedin.com/in/nitesh4004/)  
-🌐 **Portfolio**: [nitesh4004.github.io](https://nitesh4004.github.io/)  
-🐙 **GitHub**: [github.com/nitesh4004](https://github.com/nitesh4004)  
-📱 **Phone**: +91 8795969051
-
----
 
 ## 🎯 Open To
 
