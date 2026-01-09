@@ -2,14 +2,6 @@
 
 # 👋 Hi, I'm Nitesh Kumar
 
-```
-     🛰️  GEOSPATIAL AI SPECIALIST  🛰️
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         🌍 Earth Observation 🌍
-         🤖 Remote Sensing AI 🤖
-         🌐 WebGIS Solutions 🌐
-```
-
 ### 🛰️ **Geospatial AI | Remote Sensing | WebGIS Specialist**
 
 ![Earth Observation](https://img.shields.io/badge/Earth%20Observation-🛰️-blue?style=for-the-badge)
@@ -19,290 +11,132 @@
 
 **Turning satellite imagery into actionable intelligence for agriculture, environment & water resources**
 
----
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                       🎯 QUICK SNAPSHOT                        ║
-╠════════════════════════════════════════════════════════════════╣
-║ 🌍  Location:           Mumbai, India                           ║
-║ 💼  Currently:          GIS Engineer @ SWANSAT (OPC) Pvt Ltd    ║
-║ 🎓  M.Tech:             Earth System Science, IIT Guwahati 8.9  ║
-║ 🏆  B.Tech:             Civil Engineering, REC Ambedkar 7.93    ║
-║ 🚀  Specialization:     Remote Sensing | WebGIS | Geospatial AI║
-║ 📊  GitHub Stats:       14 Repositories • 517 Contributions     ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
 
-## 🌟 What I Do
+## 🎯 Quick Summary
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🛰️ **Remote Sensing**
-
-```
-┌─────────────────────────┐
-│  🌾 Crop Phenology      │
-│  🚨 Flood Risk Mapping  │
-│  🔍 Change Detection    │
-│  ⛽ Oil Spill Detection │
-└─────────────────────────┘
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 **WebGIS Solutions**
-
-```
-┌────────────────────────────┐
-│  📍 Interactive Maps       │
-│  ⚡ Real-time Processing  │
-│  📊 Analytics Dashboards   │
-│  📱 Data Visualization     │
-└────────────────────────────┘
-```
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🤖 **AI & Machine Learning**
-
-```
-┌──────────────────────────┐
-│  🔮 Predictive Modeling  │
-│  👁️ Computer Vision      │
-│  📈 Time-Series Analysis │
-│  🧠 Deep Learning        │
-└──────────────────────────┘
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🗂️ **Data Engineering**
-
-```
-┌─────────────────────────┐
-│  🔄 ETL Pipelines       │
-│  🗄️ Database Design     │
-│  ☁️ Cloud Processing    │
-│  ⚙️ Data Optimization   │
-└─────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+🌍 **Location:** Mumbai, India  
+💼 **Currently:** GIS Engineer at SWANSAT (OPC) Pvt. Ltd.  
+🎓 **M.Tech:** Earth System Science & Engineering, IIT Guwahati (CGPA: 8.9/10)  
+🏆 **B.Tech:** Civil Engineering, REC Ambedkar Nagar (CGPA: 7.93/10)  
+🚀 **Specialization:** Remote Sensing | WebGIS | Geospatial AI | Crop Forecasting  
 
 ---
 
-## 💻 Tech Stack
+## 🌟 What I Work On
 
-<div align="center">
-
-### 📚 **Languages & Tools**
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### 🌐 **GIS & Remote Sensing**
-![ArcGIS](https://img.shields.io/badge/-ArcGIS%20Pro-1f4788?style=flat)
-![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285f4?style=flat&logo=google&logoColor=white)
-![SNAP](https://img.shields.io/badge/-SNAP%20Toolbox-000000?style=flat)
-
-### 🧮 **Data & ML Libraries**
-![GeoPandas](https://img.shields.io/badge/-GeoPandas-3e9c74?style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-f7931e?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### 🎨 **Web & DevOps**
-![Streamlit](https://img.shields.io/badge/-Streamlit-ff0000?style=flat&logo=streamlit&logoColor=white)
-![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-</div>
+✅ **Geospatial Pipelines:** Automated workflows for environmental change detection and crop monitoring  
+✅ **ML-Based Forecasting:** Predictive models using Sentinel-1/2 and thermal/optical remote sensing data  
+✅ **WebGIS Solutions:** Interactive tools for processing optical/SAR data on-demand  
+✅ **Spectral Analytics:** Hyperspectral and multispectral analysis for contamination & anomaly detection  
+✅ **Data Optimization:** Reducing analysis turnaround time for large-scale vegetation monitoring  
 
 ---
 
-## 🎪 Featured Projects
+## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td>
+### **Geospatial & Earth Observation**
+Crop phenology · Yield modeling · Flood modelling · Land susceptibility · Soil moisture retrieval
 
-### 🌾 **SpectralNi30**
-```
-┌───────────────────────────┐
-│  GIS Analytics Engine     │
-│  🌾 Vegetation Health     │
-│  💧 Flood Mapping         │
-│  🗺️ LULC Classification   │
-└───────────────────────────┘
-```
-[Explore →](https://github.com/nitesh4004/SpecTralNi30)
+### **GIS Software**
+ArcGIS Pro · QGIS · ENVI · SNAP SAR Toolbox · Google Earth Engine (GEE)
 
-</td>
-<td>
+### **Programming & Data**
+- **Python:** GeoPandas · Rasterio · ArcPy · NumPy · Pandas
+- **Databases:** SQL · PostGIS
+- **Web:** JavaScript for GEE
 
-### 💧 **GeoSarovar**
-```
-┌───────────────────────────┐
-│  Water Intelligence       │
-│  💧 Rainwater Harvesting │
-│  🔍 Encroachment Detect   │
-│  🌊 Groundwater Mapping   │
-└───────────────────────────┘
-```
-[Explore →](https://github.com/nitesh4004/GeoSarovar)
+### **AI & Machine Learning**
+OpenCV · TensorFlow · PyTorch · Keras · Scikit-learn  
+(Computer Vision · Time-Series Analysis · Regression Models)
 
-</td>
-</tr>
-<tr>
-<td>
+### **WebGIS & DevOps**
+Streamlit · Leaflet · Jupyter Notebooks · Git/GitHub · Geospatial ETL Pipelines
 
-### 📊 **geoFormatX**
-```
-┌───────────────────────────┐
-│  Serverless ETL Tool      │
-│  🔄 Format Conversion     │
-│  🧭 CRS Reprojection      │
-│  ⚡ Batch Processing      │
-└───────────────────────────┘
-```
-[Explore →](https://github.com/nitesh4004/GeoFormatX)
+---
 
-</td>
-<td>
+## 🌐 WebApp Suite – Geospatial Solutions
 
-### 🗺️ **KaMaL**
-```
-┌───────────────────────────┐
-│  WebGIS Visualization     │
-│  ✏️ Feature Creation      │
-│  🖊️ Boundary Editing      │
-│  📤 Data Export           │
-└───────────────────────────┘
-```
-[Explore →](https://github.com/nitesh4004/nitesh4004.github.io)
+A collection of WebGIS tools for applied geospatial analytics:
 
-</td>
-</tr>
-</table>
+### **SpectralNi30**
+GIS analytics engine for vegetation health, flood mapping, and LULC analysis (Optical + SAR)  
+[View Repository](https://github.com/nitesh4004/SpecTralNi30)
+
+### **geoFormatX**
+Serverless geospatial ETL tool for automated vector format conversion and CRS reprojection  
+[View Repository](https://github.com/nitesh4004/GeoFormatX)
+
+### **GeoSarovar**
+Water intelligence platform for rainwater harvesting site selection and encroachment detection  
+[View Repository](https://github.com/nitesh4004/GeoSarovar)
+
+### **KaMaL**
+WebGIS interface for creating and visualizing geospatial boundary features  
+[View Repository](https://github.com/nitesh4004/nitesh4004.github.io)
+
+🔗 **[View all projects & live demos](https://nitesh4004.github.io/)**
 
 ---
 
 ## 📚 Key Projects & Research
 
-### 🎯 **Machine Learning-Based Crop Yield Forecasting** (2025)
-```
-┌────────────────────────────────────────┐
-│ 🌾 Predictive ML Models                │
-│ 📡 Sentinel-1/2 Satellite Imagery      │
-│ 🌡️  Thermal & Optical Data            │
-│ ✅ Achieved High Model Accuracy        │
-└────────────────────────────────────────┘
-```
+### **Machine Learning-Based Crop Yield Forecasting** (2025)
+Built predictive ML models using Sentinel-1/2 satellite imagery and thermal data
+- **Achieved:** High model accuracy through spectral analysis & ground-truth validation
+- **Impact:** Helps farmers optimize irrigation planning & reduce financial risks
+- **Methods:** Time-series analysis, regression models, deep learning
 
-### 🔬 **Environmental Risk Assessment** (Master's Capstone, 2023-24)
-```
-┌────────────────────────────────────────┐
-│ 🛰️  Hyperspectral Analysis             │
-│ ⛽ Oil Spill Detection                 │
-│ 🌱 Vegetation Stress Mapping           │
-│ 🧪 Soil Contamination Detection        │
-└────────────────────────────────────────┘
-```
+### **Environmental Risk Assessment** (Master's Capstone, 2023-24)
+Applied hyperspectral analysis for oil spill and contamination detection
+- **Data:** PRISMA hyperspectral + Sentinel-2 multispectral imagery
+- **Results:** Successfully identified vegetation stress & soil contamination zones
+- **Innovation:** Narrow-band spectral analysis for precision mapping
 
-### 📖 **Publication**
-```
-┌─────────────────────────────────────────────────┐
-│ Detection of hydrocarbon microseepage           │
-│ in northeast India using image analysis         │
-│ EGU General Assembly Conference 2024            │
-│ DOI: 10.5194/egusphere-egu24-15492             │
-└─────────────────────────────────────────────────┘
-```
+### **Publication**
+**Detection of hydrocarbon microseepage in northeast India using image analysis approach**
+- EGU General Assembly Conference 2024
+- DOI: 10.5194/egusphere-egu24-15492
+- Presented novel image analysis techniques for oil spill detection
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
+## 📊 GitHub Stats
 
 ![Activity](https://img.shields.io/badge/Active%20Contributor-517%20contributions%20in%20last%20year-brightgreen?style=for-the-badge)
 
-```
-╔═══════════════════════════════════════════╗
-║         🏆 LATEST CONTRIBUTIONS           ║
-╠═══════════════════════════════════════════╣
-║ 🔧 GeoSarovar Development                 ║
-║ 🌐 Portfolio Enhancement                  ║
-║ 🚀 Advanced Geospatial ML Solutions       ║
-║ 📚 WebGIS & Earth Observation Learning    ║
-╚═══════════════════════════════════════════╝
-```
-
-</div>
+**Latest Activity:**
+- 🔧 Contributing to GeoSarovar & Portfolio Projects
+- 🚀 Developing Advanced Geospatial ML Solutions
+- 📚 Continuous Learning in WebGIS & Earth Observation
 
 ---
 
 ## 🎯 Open To Opportunities
 
-<div align="center">
-
-```
-╔════════════════════════════════════════════════╗
-║          💼 COLLABORATION OPPORTUNITIES        ║
-╠════════════════════════════════════════════════╣
-║ ✅ Freelance GIS & Geospatial AI Projects     ║
-║ ✅ Remote Sensing & Environmental Monitoring  ║
-║ ✅ WebGIS Application Development             ║
-║ ✅ Mentorship in Geospatial Technologies      ║
-║ ✅ Innovative Earth Observation Solutions     ║
-╚════════════════════════════════════════════════╝
-```
-
-</div>
+✅ Freelance **GIS & Geospatial AI** Projects  
+✅ **Remote Sensing** & Environmental Monitoring Contracts  
+✅ **WebGIS** Application Development  
+✅ **Mentorship** in Geospatial Technologies  
+✅ **Collaboration** on Innovative Earth Observation Solutions  
 
 ---
 
 ## 🌱 Beyond Code
 
-```
-💡 Passions & Values:
-├─ 🌍 Leveraging satellite data for environmental conservation
-├─ 📡 Exploring cutting-edge geospatial AI techniques
-├─ 🤝 Open-source geospatial project enthusiast
-├─ 🎓 Committed to sharing knowledge & mentoring
-└─ 🚀 Turning pixels into real-world impact
-```
+- 🌍 Passionate about leveraging satellite data for environmental conservation
+- 📡 Exploring cutting-edge geospatial AI techniques
+- 🤝 Enthusiastic about open-source geospatial projects
+- 🎓 Committed to sharing knowledge through documentation & mentoring
 
 ---
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════╗
-║                   🚀 LET'S COLLABORATE 🚀           ║
-║                                                    ║
-║   Turn Earth Observation Data into Real Impact    ║
-║                                                    ║
-║         Turning Pixels into Insights!             ║
-║           One Satellite Image at a Time           ║
-╚════════════════════════════════════════════════════╝
-```
+### 🚀 Let's collaborate and turn Earth observation data into real-world impact! 🌍
+
+**Turning Pixels into Insights. One Satellite Image at a Time.**
 
 </div>
