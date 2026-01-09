@@ -1,126 +1,215 @@
+<div align="center">
+
 # 👋 Hi, I'm Nitesh Kumar
 
-**GIS Engineer | Geospatial AI Specialist | Remote Sensing Expert**
+### 🛰️ **Geospatial AI | Remote Sensing | WebGIS Specialist**
 
-Turning satellite imagery into decision-ready intelligence for agriculture, environmental monitoring, and water resource management.
+![Earth Observation](https://img.shields.io/badge/Earth%20Observation-🛰️-blue?style=for-the-badge)
+![Precision Agriculture](https://img.shields.io/badge/Precision%20Agriculture-🌾-green?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🤖-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&style=for-the-badge)
 
-🌍 Currently: **GIS Engineer** at SWANSAT (OPC) Pvt. Ltd., Mumbai, India  
-📍 Based in: Mumbai, India  
-🎯 Focus: Precision Agriculture · Crop Yield Forecasting · Environmental Risk Assessment · Flood Mapping
+**Turning satellite imagery into actionable intelligence for agriculture, environment & water resources**
+
+</div>
 
 ---
 
-## 🌍 About Me
+## 🎯 Quick Summary
 
-- 🏆 **M.Tech in Earth System Science and Engineering** from IIT Guwahati (CGPA: 8.9/10)
-- 🎓 **B.Tech in Civil Engineering** from Rajkiya Engineering College, Ambedkar Nagar (CGPA: 7.93/10)
-- 🛰️ **Specialization**: Remote Sensing, WebGIS, Geospatial AI, Machine Learning
-- 💼 **Current Role**: Building end-to-end geospatial pipelines for environmental change detection and precision agriculture
+```
+🌍 Location: Mumbai, India
+💼 Currently: GIS Engineer at SWANSAT (OPC) Pvt. Ltd.
+🎓 M.Tech: Earth System Science & Engineering, IIT Guwahati (8.9/10)
+🏆 B.Tech: Civil Engineering, REC Ambedkar Nagar (7.93/10)
+🚀 Specialization: Remote Sensing | WebGIS | Geospatial AI | Crop Forecasting
+```
 
-**Key Expertise Areas:**
+---
+
+## 🌟 What I Do
+
+<table>
+<tr>
+<td>
+
+### 🛰️ **Remote Sensing**
 - Crop Phenology & Yield Modeling
-- Flood Modelling & Risk Assessment
-- Land Susceptibility Mapping
-- Soil Moisture Retrieval
-- Oil Spill Detection & Environmental Anomaly Detection
+- Flood Risk Mapping
+- Environmental Change Detection
+- Oil Spill & Contamination Detection
+
+</td>
+<td>
+
+### 🌐 **WebGIS Solutions**
+- Interactive Mapping Applications
+- Real-time Data Processing
+- Geospatial Analytics Dashboards
+- User-Friendly Data Visualization
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🤖 **AI & Machine Learning**
+- Predictive Modeling
+- Computer Vision
+- Time-Series Analysis
+- Deep Learning for Imagery
+
+</td>
+<td>
+
+### 🗂️ **Data Engineering**
+- ETL Pipelines
+- Geospatial Database Design
+- Cloud Processing
+- Data Optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛰️ What I Work On
+## 💻 Tech Stack
 
-✅ **Geospatial Pipelines**: Automated workflows for environmental change detection and crop monitoring  
-✅ **ML-Based Forecasting**: Predictive models using Sentinel-1/2 and thermal/optical remote sensing data  
-✅ **WebGIS Solutions**: Interactive tools for processing optical/SAR data on-demand  
-✅ **Spectral Analytics**: Hyperspectral and multispectral analysis for contamination & anomaly detection  
-✅ **Data Optimization**: Reducing analysis turnaround time for large-scale vegetation monitoring  
+<div align="center">
 
----
+**Languages & Tools**
 
-## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### **Geospatial & Earth Observation**
-Crop phenology · Yield modeling · Flood modelling · Land susceptibility · Soil moisture retrieval
+**GIS & Remote Sensing**
 
-### **GIS Software**
-ArcGIS Pro · QGIS · ENVI · SNAP SAR Toolbox · Google Earth Engine (GEE)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS%20Pro-1f4788?style=flat)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285f4?style=flat&logo=google&logoColor=white)
+![SNAP](https://img.shields.io/badge/-SNAP%20Toolbox-000000?style=flat)
 
-### **Programming & Data**
-- **Python**: GeoPandas · Rasterio · ArcPy · NumPy · Pandas
-- **Databases**: SQL · PostGIS
-- **Web**: JavaScript for GEE
+**Data & ML Libraries**
 
-### **AI & Machine Learning**
-OpenCV · TensorFlow · PyTorch · Keras · Scikit-learn  
-(Computer Vision · Time-Series Analysis · Regression Models)
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-3e9c74?style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-f7931e?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### **WebGIS & DevOps**
-Streamlit · Leaflet · Jupyter Notebooks · Git/GitHub · Geospatial ETL Pipelines
+**Web & DevOps**
 
----
+![Streamlit](https://img.shields.io/badge/-Streamlit-ff0000?style=flat&logo=streamlit&logoColor=white)
+![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 🌐 WebApp Suite – Geospatial Solutions
-
-A collection of WebGIS tools for applied geospatial analytics:
-
-### **SpectralNi30**
-GIS analytics engine for vegetation health, flood mapping, and LULC analysis (Optical + SAR)  
-[View Repository](https://github.com/nitesh4004/SpecTralNi30)
-
-### **geoFormatX**
-Serverless geospatial ETL tool for automated vector format conversion and CRS reprojection  
-[View Repository](https://github.com/nitesh4004/GeoFormatX)
-
-### **GeoSarovar**
-Water intelligence platform for rainwater harvesting site selection and encroachment detection  
-[View Repository](https://github.com/nitesh4004/GeoSarovar)
-
-### **KaMaL**
-WebGIS interface for creating and visualizing geospatial boundary features  
-[View Repository](https://github.com/nitesh4004/nitesh4004.github.io)
-
-🔗 **[View all projects & live demos](https://nitesh4004.github.io/)**
+</div>
 
 ---
 
-## 📊 Selected Work
+## 🎪 Featured Projects
 
-### **Machine Learning-Based Crop Yield Forecasting** (2025)
-- Built predictive models using Sentinel-1/2 and thermal/optical data to forecast crop yield and reduce financial risk
-- Implemented end-to-end data pipelines for sugarcane yield prediction supporting targeted irrigation planning
-- Achieved high model reliability through spectral analysis and ground-truth validation
+### 🌾 **SpectralNi30**
+**GIS Analytics Engine for Vegetation & Flood Analysis**
+- Multi-spectral vegetation health monitoring (Optical + SAR)
+- Real-time LULC (Land Use Land Cover) Classification
+- Flood Risk Assessment & Mapping
+- [Explore →](https://github.com/nitesh4004/SpecTralNi30)
 
-### **Environmental Risk Assessment** (Master's Capstone, 2023-2024)
-- Applied advanced ML models for surface anomaly detection using PRISMA hyperspectral and Sentinel-2 imagery
-- Identified oil spill hotspots and vegetation stress markers using narrow-band spectral analysis
-- Demonstrated soil contamination mapping and environmental risk assessment techniques
+### 💧 **GeoSarovar**
+**Water Intelligence Platform**
+- Rainwater Harvesting Site Selection
+- Encroachment Detection using Satellite Imagery
+- Groundwater Potential Mapping
+- [Explore →](https://github.com/nitesh4004/GeoSarovar)
 
----
+### 📊 **geoFormatX**
+**Serverless Geospatial ETL Tool**
+- Automated Vector Format Conversion
+- Coordinate Reference System (CRS) Reprojection
+- Batch Processing Pipeline
+- [Explore →](https://github.com/nitesh4004/GeoFormatX)
 
-## 📄 Publications
-
-**Kumar, N., Ahmad, A., Pal, A. K., Nair, A. M.**  
-*Detection of hydrocarbon microseepage in northeast India using image analysis approach*  
-EGU General Assembly Conference 2024 | doi:10.5194/egusphere-egu24-15492
-
----
-
-## 📌 Recent Activity
-
-- 🔧 **517 contributions** in the last year
-- 🚀 Active development on GeoSarovar and portfolio projects
-- 📚 Continuous learning in advanced geospatial ML and WebGIS
-
----
-
-
-## 🎯 Open To
-
-✅ Freelance GIS & Geospatial AI projects  
-✅ Remote sensing and environmental monitoring contracts  
-✅ WebGIS application development  
-✅ Mentorship in geospatial technologies  
-✅ Collaboration on innovative geospatial solutions  
+### 🗺️ **KaMaL**
+**WebGIS Boundary Visualization**
+- Interactive Geospatial Feature Creation
+- Real-time Boundary Editing
+- Data Export in Multiple Formats
+- [Explore →](https://github.com/nitesh4004/nitesh4004.github.io)
 
 ---
 
-*Let's turn Earth observation data into actionable insights!* 🌍
+## 📚 Key Projects & Research
+
+### 🎯 **Machine Learning-Based Crop Yield Forecasting** (2025)
+Built predictive ML models using Sentinel-1/2 satellite imagery and thermal data
+- **Achieved:** High model accuracy through spectral analysis & ground-truth validation
+- **Impact:** Helps farmers optimize irrigation planning & reduce financial risks
+- **Methods:** Time-series analysis, regression models, deep learning
+
+### 🔬 **Environmental Risk Assessment** (Master's Capstone, 2023-24)
+Applied hyperspectral analysis for oil spill and contamination detection
+- **Data:** PRISMA hyperspectral + Sentinel-2 multispectral imagery
+- **Results:** Successfully identified vegetation stress & soil contamination zones
+- **Innovation:** Narrow-band spectral analysis for precision mapping
+
+### 📖 **Publication**
+**Detection of hydrocarbon microseepage in northeast India using image analysis approach**
+- EGU General Assembly Conference 2024
+- DOI: 10.5194/egusphere-egu24-15492
+- Presented novel image analysis techniques for oil spill detection
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Activity](https://img.shields.io/badge/Active%20Contributor-517%20contributions%20in%20last%20year-brightgreen?style=for-the-badge)
+
+**Latest Activity:**
+- 🔧 Contributing to GeoSarovar & Portfolio Projects
+- 🚀 Developing Advanced Geospatial ML Solutions
+- 📚 Continuous Learning in WebGIS & Earth Observation
+
+</div>
+
+---
+
+## 🎯 Open To Opportunities
+
+<div align="center">
+
+✅ Freelance **GIS & Geospatial AI** Projects
+
+✅ **Remote Sensing** & Environmental Monitoring Contracts
+
+✅ **WebGIS** Application Development
+
+✅ **Mentorship** in Geospatial Technologies
+
+✅ **Collaboration** on Innovative Earth Observation Solutions
+
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+- 🌍 Passionate about leveraging satellite data for environmental conservation
+- 📡 Exploring cutting-edge geospatial AI techniques
+- 🤝 Enthusiastic about open-source geospatial projects
+- 🎓 Committed to sharing knowledge through documentation & mentoring
+
+---
+
+<div align="center">
+
+### 🚀 Let's collaborate and turn Earth observation data into real-world impact! 🌍
+
+**Turning Pixels into Insights. One Satellite Image at a Time.**
+
+</div>
